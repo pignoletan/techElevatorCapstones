@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.logo {
+	width: 90%;
+}
+
+* {
+	color: rebeccapurple;
+}
+
+.navBar {
+	background-color: black;
+	color: white;
+	padding: 1%;
+	font-size: 25px;
+}
+.navBar a{
+	padding-right: 200px;
+}
+.picOfPark {
+	list-style: none;
+	padding-top: 1%;
+}
+.onePark {
+	padding-bottom: 1%;
+	border-bottom: 2px solid rebeccapurple;
+}
